@@ -1,0 +1,26 @@
+body{
+    background-color: white;
+}
+img{
+    width: 120px;
+}
+.head {
+    padding: 10px;
+    
+}
+#bg-head{
+    background-color: #310131;
+    color: white;
+}
+.row-margin{
+    margin: 10px;
+    font-size: 23px;
+}
+
+h3{
+    border: 2px solid black;
+    
+}
+.border ul li{
+    border-bottom: 1px solid black;
+}
